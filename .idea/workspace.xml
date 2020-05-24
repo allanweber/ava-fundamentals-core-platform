@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="983cd1d0-68e9-4d5f-80ba-baad9536c9cd" name="Default Changelist" comment="" />
+    <list default="true" id="983cd1d0-68e9-4d5f-80ba-baad9536c9cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/TxPromoWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/TxPromoWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/TxWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/manually_synchronized/TxWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_method/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/concurrency/synchronized_statment/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/Helper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/Helper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/callable_returning_values/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/callable_returning_values/Adder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/callable_returning_values/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/callable_returning_values/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/executor_service/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/executor_service/Adder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/executor_service/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/executor_service/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/runnable/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/runnable/Adder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/runnable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/runnable/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/simple/Adder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/simple/Adder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/simple/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/multithreading/examples/simple/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/reflection/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/reflection/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/reflection/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/pluralsight-java-fundamentals-the-core-platform/com/allan/reflection/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +39,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Z2dNAHfIOhhVib3uWjAjVRzDuE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,31 +49,37 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/allan/multithreading/concurrency/manually_synchronized" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/allan/collections/_2_order" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.allan.multithreading_concurrency.simple" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/allan/collections/_2_order" />
+      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/concurrency/manually_synchronized" />
+      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/concurrency/synchronized_statment" />
+      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/returning_values" />
+      <recent name="$PROJECT_DIR$/src/com/allan/multithreading" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.allan.reflection" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/com/allan/multithreading_concurrency/simple" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.allan.multithreading_concurrency.simple" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.allan.reflection" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/concurrency/manually_synchronized" />
-      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/concurrency/synchronized_statment" />
-      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/returning_values" />
-      <recent name="$PROJECT_DIR$/src/com/allan/multithreading" />
-      <recent name="$PROJECT_DIR$/src/com/allan/multithreading/executor_service" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.allan.multithreading_concurrency.simple.Main" />
       <module name="pluralsight-java-fundamentals-the-core-platform" />
@@ -98,12 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.allan.multithreading.examples.callable_returning_values.executor_service.Main" />
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allan.collections._2_order.Main" />
       <module name="pluralsight-java-fundamentals-the-core-platform" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.allan.multithreading.examples.callable_returning_values.executor_service.*" />
+          <option name="PATTERN" value="com.allan.collections._2_order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allan.collections._1_Uniquenes.Main" />
+      <module name="pluralsight-java-fundamentals-the-core-platform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allan.collections._1_Uniquenes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +245,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +278,7 @@
       <workItem from="1584041081470" duration="2013000" />
       <workItem from="1584099268461" duration="14000" />
       <workItem from="1584798338699" duration="5254000" />
+      <workItem from="1590323283938" duration="1787000" />
     </task>
     <servers />
   </component>
@@ -238,10 +286,12 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1290" y="323" key="#com.intellij.ide.util.MemberChooser" timestamp="1584803864037">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state x="3210" y="185" key="#com.intellij.ide.util.MemberChooser" timestamp="1590326756721">
+      <screen x="1920" y="-106" width="1920" height="1080" />
     </state>
+    <state x="3210" y="185" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326756721" />
     <state x="1290" y="323" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1584803864037" />
+    <state x="3210" y="185" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1177/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326634536" />
     <state x="1227" y="492" width="547" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584041483806">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
@@ -250,21 +300,25 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="1194" y="513" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1200@0.0.1920.1200" timestamp="1584799499339" />
-    <state width="912" height="423" key="GridCell.Tab.0.bottom" timestamp="1584887027488">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1878" height="401" key="GridCell.Tab.0.bottom" timestamp="1590326974096">
+      <screen x="1920" y="-106" width="1920" height="1080" />
     </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326974096" />
     <state width="912" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1584887027488" />
-    <state width="912" height="423" key="GridCell.Tab.0.center" timestamp="1584887027487">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1878" height="401" key="GridCell.Tab.0.center" timestamp="1590326974091">
+      <screen x="1920" y="-106" width="1920" height="1080" />
     </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.center/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326974091" />
     <state width="912" height="423" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1584887027487" />
-    <state width="912" height="423" key="GridCell.Tab.0.left" timestamp="1584887027486">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1878" height="401" key="GridCell.Tab.0.left" timestamp="1590326974090">
+      <screen x="1920" y="-106" width="1920" height="1080" />
     </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.left/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326974090" />
     <state width="912" height="423" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1584887027486" />
-    <state width="912" height="423" key="GridCell.Tab.0.right" timestamp="1584887027487">
-      <screen x="0" y="0" width="1920" height="1200" />
+    <state width="1878" height="401" key="GridCell.Tab.0.right" timestamp="1590326974091">
+      <screen x="1920" y="-106" width="1920" height="1080" />
     </state>
+    <state width="1878" height="401" key="GridCell.Tab.0.right/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326974091" />
     <state width="912" height="423" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1584887027487" />
     <state width="912" height="423" key="GridCell.Tab.1.bottom" timestamp="1584887027490">
       <screen x="0" y="0" width="1920" height="1200" />
@@ -282,6 +336,14 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="912" height="423" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1584887027490" />
+    <state x="2368" y="15" key="SettingsEditor" timestamp="1590323308767">
+      <screen x="1920" y="-106" width="1920" height="1080" />
+    </state>
+    <state x="2368" y="15" key="SettingsEditor/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590323308767" />
+    <state x="2618" y="194" key="extract.method.dialog" timestamp="1590326504947">
+      <screen x="1920" y="-106" width="1920" height="1080" />
+    </state>
+    <state x="2618" y="194" key="extract.method.dialog/0.0.1920.1200/1920.-106.1920.1080@1920.-106.1920.1080" timestamp="1590326504947" />
     <state x="1145" y="271" key="search.everywhere.popup" timestamp="1584042330630">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
